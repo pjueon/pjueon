@@ -4,7 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjueon&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Contributed to
-- [JetsonGPIO (own project)](https://github.com/pjueon/JetsonGPIO)
+The repositories that I contributed to
+- [JetsonGPIO (own repository)](https://github.com/pjueon/JetsonGPIO)
+- [eFriendPy (own repository)](https://github.com/pjueon/eFriendPy)
 - [txtempus](https://github.com/hzeller/txtempus/commits/master?author=pjueon)
 - [pyupbit](https://github.com/sharebook-kr/pyupbit/commits/master?author=pjueon)
