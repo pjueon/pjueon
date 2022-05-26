@@ -9,3 +9,4 @@ The repositories that I contributed to
 - [eFriendPy (own repository)](https://github.com/pjueon/eFriendPy)
 - [txtempus](https://github.com/hzeller/txtempus/commits/master?author=pjueon)
 - [pyupbit](https://github.com/sharebook-kr/pyupbit/commits/master?author=pjueon)
+- [Jetson.GPIO](https://github.com/NVIDIA/jetson-gpio/commits/master?author=pjueon)
