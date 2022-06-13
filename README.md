@@ -2,4 +2,4 @@
 
 [![pjueon's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjueon&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjueon&theme=dark&hide=rich+text+format,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjueon&theme=dark&exclude_repo=bitproject)](https://github.com/anuraghazra/github-readme-stats)
