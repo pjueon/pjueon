@@ -12,11 +12,16 @@ Experience:
 - Currently working as a SW/algorithm developer in the medical imaging field. (2019~)
 
 Interested in:
-- Computer Vision, Image Processing 
-- Numerical Analysis 
-- GPGPU Programming 
-- Data Analysis 
-- Auto trading 
+- All that cool mathematical stuff
+  - Computer Vision
+  - Image Processing 
+  - Numerical Analysis 
+  - Data Analysis 
+  - GPGPU Programming 
+- Automation 
+  - Auto trading (stocks, crypto currency, etc)
+  - Automating daily stuff 
+  - Tools for SW developers 
 
 Human Languages: 
 - Korean, Japanese, English
