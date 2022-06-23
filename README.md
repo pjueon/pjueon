@@ -5,3 +5,22 @@
 [![pjueon's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjueon&show_icons=true&theme=dark&exclude_repo=bitproject)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjueon&theme=dark&exclude_repo=bitproject)](https://github.com/anuraghazra/github-readme-stats)
+
+
+Experience: 
+- Programming Languages: C++, CUDA C++, C#, Python
+- Currently working as a SW/algorithm developer in the medical imaging field. (2019~)
+
+Interested in:
+- Computer Vision, Image Processing 
+- Numerical Analysis 
+- GPGPU Programming 
+- Data Analysis 
+- Auto trading 
+
+Human Languages: 
+- Korean, Japanese, English
+
+
+
+
