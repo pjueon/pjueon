@@ -9,7 +9,7 @@
 
 Experience: 
 - Programming Languages: C++, CUDA C++, Python, C#
-- Currently working as a SW/algorithm developer in the medical imaging field. (2019~)
+- Currently working as a SW/algorithm developer in the medical imaging field. (2020~)
 
 Interested in:
 - All that cool mathematical stuff
