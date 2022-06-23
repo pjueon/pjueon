@@ -21,7 +21,7 @@ Interested in:
 - Automation 
   - Auto trading (stocks, crypto currency, etc)
   - Automating daily stuff 
-  - Tools for SW developers 
+  - Tools for developers 
 
 Human Languages: 
 - Korean, Japanese, English
