@@ -18,7 +18,7 @@ Interested in:
   - Numerical Analysis 
   - Data Analysis 
   - GPGPU Programming 
-- Automation 
+- Others 
   - Auto trading (stocks, crypto currency, etc)
   - Automating daily stuff 
   - Tools for developers 
