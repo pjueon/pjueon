@@ -19,7 +19,7 @@ Interested in:
   - Data Analysis 
   - GPGPU Programming 
 - Others 
-  - Auto trading (stocks, crypto currency, etc)
+  - Auto trading (stock, crypto currency, etc)
   - Automating daily stuff 
   - Tools for developers 
 
