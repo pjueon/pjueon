@@ -20,7 +20,8 @@ Interested in:
   - GPGPU Programming 
 - Others 
   - Auto trading (stock, crypto currency, etc)
-  - Automating daily stuff 
+  - Automating daily stuff
+  - Software Architecture 
   - Tools for developers 
 
 Human Languages: 
