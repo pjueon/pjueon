@@ -19,9 +19,9 @@ Interested in:
   - Data Analysis 
   - GPGPU Programming 
 - Others 
+  - Software Architecture
   - Auto trading (stock, crypto currency, etc)
   - Automating daily stuff
-  - Software Architecture 
   - Tools for developers 
 
 Human Languages: 
