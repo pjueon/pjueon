@@ -8,8 +8,11 @@
 
 
 Experience: 
+- Currently working as a SW/algorithm developer in the medical imaging field. (2020~)  
+  
+Languages: 
 - Programming Languages: C++, CUDA C++, Python, C#
-- Currently working as a SW/algorithm developer in the medical imaging field. (2020~)
+- Human Languages: Korean, Japanese, English
 
 Interested in:
 - All that cool mathematical stuff
@@ -24,8 +27,7 @@ Interested in:
   - Automating daily stuff
   - Tools for developers 
 
-Human Languages: 
-- Korean, Japanese, English
+
 
 
 
