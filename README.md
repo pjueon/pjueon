@@ -16,10 +16,12 @@ Languages:
 
 Interested in:
 - All that cool mathematical stuff
-  - Computer Vision / Machine Learning 
+  - Computer Vision 
   - Image Processing 
   - Numerical Analysis 
-  - Data Analysis  
+  - Data Analysis
+  - Machine Learning / AI 
+  - etc
 - Others 
   - GPGPU Programming
   - Software Architecture
