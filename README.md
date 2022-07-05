@@ -19,6 +19,8 @@ Interested in:
 - Numerical Analysis 
 - Data Analysis
 - Machine Learning / AI 
+- Applied Physics
+- Electrical Engineering
 - Any other cool mathematical stuff
 - GPGPU Programming
 - Software Architecture
