@@ -12,7 +12,7 @@ Experience:
 - Skills / Tools:  
   - C++, CUDA C++, Python, C# 
   - Korean, Japanese, English
-  - Applied Pyhsics, Electrical Engineering 
+  - Applied Pyhsics(Bachelor's degree), Electrical Engineering(Master's degree)
 
 Interested in:
 - Computer Vision 
