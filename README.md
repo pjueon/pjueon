@@ -12,24 +12,21 @@ Experience:
 - Skills / Tools:  
   - C++, CUDA C++, Python, C# 
   - Korean, Japanese, English
+  - Applied Pyhsics, Electrical Engineering 
 
 Interested in:
 - Computer Vision 
 - Image Processing 
-- Numerical Analysis 
 - Data Analysis
 - Machine Learning / AI 
-- Applied Physics
-- Electrical Engineering
-- Any other cool mathematical stuff
+- Numerical Analysis 
+- Mathematics, Physics 
+- Open Source 
 - GPGPU Programming
 - Software Architecture
 - Auto trading (stock, crypto currency, etc)
-- Automating daily stuff
+- Task Automation 
 - Tools for developers 
-
-
-
 
 
 
